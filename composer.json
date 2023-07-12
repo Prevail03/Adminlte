@@ -1,25 +1,19 @@
 {
-  "name": "almasaeed2010/adminlte",
-  "description": "AdminLTE - admin control panel and dashboard that's based on Bootstrap 4",
-  "homepage": "https://adminlte.io/",
-  "keywords": [
-    "css",
-    "js",
-    "less",
-    "responsive",
-    "back-end",
-    "template",
-    "theme",
-    "web",
-    "admin"
-  ],
-  "authors": [
-    {
-      "name": "Colorlib"
+    "name": "vesen/adminlte",
+    "description": "the admin lte package for vesen",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Prevailer Muhani",
+            "email": "prevamu03@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Vesen\\Adminlte\\": "src/Vesen/Adminlte/"
+        }
     }
-  ],
-  "license": "MIT",
-  "support": {
-    "issues": "https://github.com/ColorlibHQ/AdminLTE/issues"
-  }
 }
