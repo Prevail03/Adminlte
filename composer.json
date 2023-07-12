@@ -13,7 +13,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Vesen\\Adminlte\\": "src/Vesen/Adminlte/"
+            "Vesen\\Adminlte\\": "src/Adminlte/"
         }
     }
 }
