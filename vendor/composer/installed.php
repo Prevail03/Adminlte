@@ -3,7 +3,7 @@
         'name' => 'vesen/adminlte',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'b50345dcad4a37c67299fb420b7d42bb7aaff17d',
+        'reference' => '1df7e876558ff8287d32b0f87be464ff5fcac3d8',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'vesen/adminlte' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'b50345dcad4a37c67299fb420b7d42bb7aaff17d',
+            'reference' => '1df7e876558ff8287d32b0f87be464ff5fcac3d8',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
